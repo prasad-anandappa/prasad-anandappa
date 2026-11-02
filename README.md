@@ -3,6 +3,8 @@
 **Software Engineer** · Phoenix, Arizona, USA
 I build backend systems and developer tools with **Java, Python, React and TypeScript** — and I teach what I build.
 
+☁️ **AWS Certified Solutions Architect – Associate** (earned March 2024 · [Credly](https://www.credly.com/go/4CbjTpftFSv9mHwAv4c1oA))
+
 `Java` · `Spring Boot` · `Python` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `Docker` · `Kubernetes` · `CI/CD` · `AI Agents`
 
 ---
@@ -70,7 +72,6 @@ I run **Namma Codertools**, a coding-education channel built on one rule: **one 
 ## 📫 Connect
 
 - 💻 GitHub — you're here: [@prasad-anandappa](https://github.com/prasad-anandappa)
-- 💼 LinkedIn — [Prasad Dimba Anandappa](https://www.linkedin.com/in/prasad-d-148b77250/)
 - ▶️ YouTube — [Namma Codertools](https://www.youtube.com/@nammacodertools)
 - 📸 Instagram — [@nammacodertools](https://www.instagram.com/nammacodertools/)
 - 🏆 Devpost — [prasad-anandappa](https://devpost.com/prasad-anandappa)

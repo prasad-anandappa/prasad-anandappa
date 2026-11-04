@@ -31,6 +31,17 @@ Real, working projects — each built to production standards: tests, CI, and a 
 | **[SingleStore Realtime Analytics](https://github.com/prasad-anandappa/singlestore-realtime-analytics)** | HTAP design: per-table rowstore/columnstore choices, PIPELINES ingestion, real-time aggregations | SingleStore · Python |
 | **[Supabase Notes API](https://github.com/prasad-anandappa/supabase-notes-api)** | Notes API with a full row-level-security policy matrix, audit triggers, realtime and storage policies | Supabase · PostgreSQL · TypeScript |
 
+### ☁️ Google Cloud projects
+
+Built alongside my GCP Professional Cloud DevOps Engineer certification path — each one runs and tests locally first, then maps to its GCP deployment form.
+
+| Project | What it is | Stack |
+|---|---|---|
+| **[Cloud Run CI/CD](https://github.com/prasad-anandappa/gcp-cloud-run-cicd)** | Production-pattern Cloud Run service: Cloud Build pipeline (test → build → push → deploy) and Terraform for Artifact Registry, IAM and Secret Manager | Java 21 · Spring Boot 3 · Terraform · Cloud Build |
+| **[Dataflow Streaming](https://github.com/prasad-anandappa/gcp-dataflow-streaming)** | Streaming event pipeline: schema validation, dead-letter branch, 60-second windowed purchase totals — DirectRunner locally, Dataflow + Pub/Sub + BigQuery when deployed | Apache Beam · Python |
+| **[Vertex ML Pipeline](https://github.com/prasad-anandappa/gcp-vertex-ml-pipeline)** | Churn training pipeline with an accuracy metric gate — the model registers only when held-out accuracy clears the bar | Kubeflow Pipelines · scikit-learn · Vertex AI |
+| **[BigQuery Warehouse Analytics](https://github.com/prasad-anandappa/bigquery-warehouse-analytics)** | Partitioned + clustered warehouse, incremental MERGE with hash-diff change detection, SCD Type 2 dimensions, cost monitoring | BigQuery · SQL |
+
 ---
 
 ## 🎓 My courses on Udemy

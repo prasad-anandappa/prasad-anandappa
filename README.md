@@ -5,7 +5,7 @@ I build backend systems and developer tools with **Java, Python, React and TypeS
 
 ☁️ **AWS Certified Solutions Architect – Associate** (earned March 2024 · [Credly](https://www.credly.com/go/4CbjTpftFSv9mHwAv4c1oA))
 
-`Java` · `Spring Boot` · `Python` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `Docker` · `Kubernetes` · `CI/CD` · `AI Agents`
+`Java` · `Spring Boot` · `Python` · `FastAPI` · `React` · `TypeScript` · `Flutter` · `PostgreSQL` · `MySQL` · `Apache Airflow` · `Terraform` · `Docker` · `Kubernetes` · `CI/CD` · `AI Agents` · `RAG / LLM Apps`
 
 ---
 
@@ -19,6 +19,7 @@ Real, working projects — each built to production standards: tests, CI, and a 
 | **[Double-Entry Ledger](https://github.com/prasad-anandappa/double-entry-ledger)** | Double-entry accounting ledger + reconciliation API — balanced journal entries enforced in the domain *and* the database, idempotent postings | Java 21 · Spring Boot · PostgreSQL · Flyway |
 | **[InvoicePilot](https://github.com/prasad-anandappa/invoicepilot)** | An AI agent that turns a plain-language request into a PayPal invoice, payment link, reminders and reconciliation — my PayPal AI Hackathon entry | Python · FastAPI · PayPal API |
 | **[Java Daily Practice](https://github.com/prasad-anandappa/java-daily-practice)** | One Java exercise a day — data structures, algorithms, concurrency, JVM internals | Java 21 |
+| **[SehatSathi](https://github.com/prasad-anandappa/sehatsathi)** | Follow-up agent for ASHA/ANM frontline health workers — visit notes become prioritised follow-up plans and reminders in 23 Indian languages; my MIT Solve Global Health entry | Python · FastAPI |
 
 ### 📊 Data & platform projects
 
